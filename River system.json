@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Which is the smallest island in Assam?",
+    "options": ["Greenland", "Borneo", "Majuli", "Umananda"],
+    "answer": 3
+  },
+  {
+    "question": "Which Indian river declared as the 'National river of India'?",
+    "options": ["Brahmaputra", "Mahanadi", "Ganga", "Yamuna"],
+    "answer": 2
+  },
+  {
+    "question": "Which river is known as Tears of Assam?",
+    "options": ["Brahmaputra", "Kapili", "Krishnai", "Barak"],
+    "answer": 0
+  },
+  {
+    "question": "Which river is known as Dakshina Ganga?",
+    "options": ["Godavari", "Kabiri", "Mahanadi", "Narmada"],
+    "answer": 0
+  },
+  {
+    "question": "On which date was the Ganges (Ganga) declared as the 'National river of India'?",
+    "options": ["October 2, 2000", "November 4, 2008", "August 15, 1947", "January 26, 1950"],
+    "answer": 1
+  },
+  {
+    "question": "When was National Ganga Council established?",
+    "options": ["2006", "2012", "2016", "2023"],
+    "answer": 2
+  },
+  {
+    "question": "What is the world's largest island?",
+    "options": ["Greenland", "Borneo", "Majuli", "Umananda"],
+    "answer": 0
+  },
+  {
+    "question": "In which state is the Peacock Island temple?",
+    "options": ["Assam", "Meghalaya", "Sikkim", "Goa"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest delta in the world?",
+    "options": ["Godavari", "Sunderbans", "Krishna", "Mahanadi"],
+    "answer": 1
+  },
+  {
+    "question": "On which river is the Peacock Island located?",
+    "options": ["Brahmaputra", "Kapili", "Barak", "Jiya Bharali"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following islands is known as Peacock Island?",
+    "options": ["Greenland", "Borneo", "Majuli", "Umananda"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following rivers in Assam is known as Kameng in Arunachal Pradesh?",
+    "options": ["Subansiri", "Dibang", "Jiya Bharali", "Brahmaputra"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following rivers does not flow in the state of Arunachal Pradesh?",
+    "options": ["Dibang River", "Dihing River", "Kameng River", "Barak"],
+    "answer": 3
+  },
+  {
+    "question": "How many headstreams does the Brahmaputra have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "question": "What is the number of tributaries of Brahmaputra?",
+    "options": ["85", "90", "95", "100"],
+    "answer": 1
+  },
+  {
+    "question": "What is the number of tributaries of Barak?",
+    "options": ["8", "10", "12", "17"],
+    "answer": 2
+  },
+  {
+    "question": "What is the area of the Brahmaputra River basin? (ব্ৰহ্মপুত্ৰ নদীৰ অৱবাহিকা অঞ্চলৰ কালি কিমান?)",
+    "options": ["50,500 km²", "56,500 km²", "45,500 km²", "42,500 km²"],
+    "answer": 1
+  },
+  {
+    "question": "How much of the Brahmaputra river flows through Assam?",
+    "options": ["419 km", "509 km", "725 km", "830 km"],
+    "answer": 2
+  },
+  {
+    "question": "Which river in Assam is also known as Meghna?",
+    "options": ["Brahmaputra", "Dhansri", "Barak", "Krishnai"],
+    "answer": 2
+  },
+  {
+    "question": "Which river is called father of waters?",
+    "options": ["Nile River", "Amazon", "Mississippi River", "Brahmaputra"],
+    "answer": 2
+  },
+  {
+    "question": "The Krishna River is a major tributary of which sea?",
+    "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Red Sea"],
+    "answer": 1
+  },
+  {
+    "question": "Which dam is constructed on the Krishna River and serves as a multipurpose project for irrigation and electricity generation?",
+    "options": ["Srisailam Dam", "Tehri Dam", "Bhakra Dam", "Hirakud Dam"],
+    "answer": 0
+  },
+  {
+    "question": "Which river is called Sorrow river in India?",
+    "options": ["Damodar River", "Brahmaputra", "Ganges", "Mahi"],
+    "answer": 0
+  },
+  {
+    "question": "On the south side, India is bounded by the Indian Ocean, by the Arabian Sea on the south-west and the _____ on the south-east.",
+    "options": ["Brahmaputra", "Ganges", "Bay of Bengal", "No of above"],
+    "answer": 2
+  },
+  {
+    "question": "Which river crosses Tropic of Capricorn twice?",
+    "options": ["Nile River", "Congo River", "Limpopo River", "Mississippi River"],
+    "answer": 2
+  },
+  {
+    "question": "Which river crosses Tropic of Cancer twice?",
+    "options": ["Kelani River", "Ganga", "Congo River", "Mahi"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the largest river of Sri Lanka?",
+    "options": ["Mahaweli Ganga", "Kelani River", "Kala Oya", "Ganga"],
+    "answer": 0
+  },
+  {
+    "question": "That's the biggest island of the Indian Ocean is___.",
+    "options": ["Maldives", "Madagascar", "Lakshadweep", "Sumatra"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following city is on the bank of Nile river?",
+    "options": ["Riyadh", "Khartoum", "Venice", "Baghdad"],
+    "answer": 1
+  },
+  {
+    "question": "Which one is not a deposittional land form developed by the running water? (কোনটো প্ৰবাহিত জলৰ দ্বাৰা বিকশিত সঞ্চিত ভূৰূপ নহয়?)",
+    "options": ["River terraces (নদী বেদীকা)", "Alluvial (পলস)", "Natural levees (প্ৰাকৃতিক বান্ধ)", "Delta (ব-দ্বীপ)"],
+    "answer": 1
+  },
+  {
+    "question": "On which river is the Hirakund Dam built?",
+    "options": ["Godavari", "Kabiri", "Mahanadi", "Narmada"],
+    "answer": 2
+  },
+  {
+    "question": "On which river is the Tehri Dam built?",
+    "options": ["Alakananda", "Bhagirathi", "Ganga", "Hoogly"],
+    "answer": 1
+  },
+  {
+    "question": "Bhakra Nangal is a joint project of Haryana, Punjab and Rajasthan. On which river is the built?",
+    "options": ["Yamuna", "Sindhu", "Ravi", "Sutlej"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is India's biggest dam? (তলৰ কোনটো ভাৰতৰ সৰ্ববৃহৎ বান্ধ?)",
+    "options": ["Bhakra Nangal", "Hirakund", "Farakka", "Pong Dam"],
+    "answer": 1
+},
+  {
+    "question": "Which river is the Pong Dam hydroelectric power project built?",
+    "options": ["Ganga", "Ravi", "Hughely", "Beas"],
+    "answer": 3
+  },
+  {
+    "question": "The state benefited from the Damodar Valley Project is-",
+    "options": ["Chhattisgarh, Assam", "Bihar, Jharkhand", "Uttar Pradesh, Gujrat", "West Bengal, Jharkhand"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following States does not form part of the Narmada Basin?",
+    "options": ["Madhya Pradesh", "Maharashtra", "Gujrat", "Rajasthan"],
+    "answer": 3
+  },
+  {
+    "question": "At which of the following places of India the first hydroelectric power station was commissioned?",
+    "options": ["Mandi", "Chambal", "Shivasamudram", "Damodar"],
+    "answer": 2
+  },
+  {
+    "question": "Garland canal project envisages the conservation of water resources in the country through the construction of ____.",
+    "options": ["Dams", "Canals", "Embankments", "None of these"],
+    "answer": 1
+  },
+  {
+    "question": "The things that can be done with the help of multipurpose dams are—",
+    "options": [
+      "Irrigation for Agricultural Field",
+      "All purpose of positive used",
+      "Carry the water far distance through canal",
+      "All of Above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Where most of the fresh water is found?",
+    "options": ["Polar Ice and Glacier", "River", "Lake", "Ocean and Sea"],
+    "answer": 0
+  },
+  {
+    "question": "Which dam holds the title of being the highest dam in India?",
+    "options": ["Bhakra Dam", "Hirakud Dam", "Tehri Dam", "Sardar Sarovar Dam"],
+    "answer": 2
+  },
+  {
+    "question": "In which Indian state is the Tehri Dam located?",
+    "options": ["Uttarakhand", "Jharkhand", "Bihar", "Uttar Pradesh"],
+    "answer": 0
+  },
+  {
+    "question": "On which river is the Tehri Dam built?",
+    "options": ["Yamuna River", "Ganges River", "Alaknanda River", "Bhagirathi River"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the longest dam in our country?",
+    "options": ["Bhakra Dam", "Hirakud Dam", "Tehri Dam", "Sardar Sarovar Dam"],
+    "answer": 1
+  },
+  {
+    "question": "In which Indian state is the Hirakud Dam located?",
+    "options": ["Gujarat", "Maharashtra", "Odisha", "Madhya Pradesh"],
+    "answer": 2
+  },
+  {
+    "question": "In which Indian state is the Bhakra Dam located?",
+    "options": ["Punjab", "Himachal Pradesh", "Haryana", "Rajasthan"],
+    "answer": 1
+  },
+  {
+    "question": "On which river is the Bhakra Dam built?",
+    "options": ["Yamuna River", "Beas River", "Sutlej River", "Ganges River"],
+    "answer": 2
+  },
+  {
+    "question": "On which river is the Sardar Sarovar Dam built?",
+    "options": ["Yamuna River", "Godavari River", "Tapti River", "Narmada River"],
+    "answer": 3
+  },
+  {
+    "question": "On which river is the Hirakud Dam built?",
+    "options": ["Yamuna River", "Mahanadi River", "Godavari River", "Tapti River"],
+    "answer": 1
+  },
+  {
+    "question": "On which river is Karbi Langpi hydro electric project?",
+    "options": ["Borpani River", "Barak River", "Brahmaputra River", "Ganga"],
+    "answer": 0
+  },
+  {
+    "question": "Where is Kopili Hydro Electric Project?",
+    "options": [
+      "Umrangso, Dima Hasao District, Assam",
+      "Jatinga, Dima Hasao district, Assam",
+      "Kaliabor, Nagaon district, Assam",
+      "Barpathar, Golaghat district, Assam"
+    ],
+    "answer": 0
+  }
+]
