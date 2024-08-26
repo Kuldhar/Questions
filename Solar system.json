@@ -37,7 +37,7 @@
   {
     "question": "What is the coldest planet in our solar system?",
     "options": ["Neptune", "Saturn", "Jupiter", "Uranus"],
-    "answer": 0
+    "answer": 3
   },
   {
     "question": "Which planet has the most rings?",
